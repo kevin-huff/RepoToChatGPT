@@ -1,0 +1,25 @@
+{
+  "name": "repototext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-huff/RepoToText.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "@octokit/rest": "^18.10.0",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  },
+  "bugs": {
+    "url": "https://github.com/kevin-huff/RepoToText/issues"
+  },
+  "homepage": "https://github.com/kevin-huff/RepoToText#readme"
+}
